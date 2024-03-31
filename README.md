@@ -16,6 +16,3 @@ Reference: https://www.youtube.com/playlist?list=PLvz5lCwTgdXByZ_z-LFo4vJbbFIMPh
 •	23/03/2024
 
 After getting the Basic Layout and Idea, started Creating a Dataset to import to google collab.
-
-
-![image](https://github.com/sarangKP/Projects/assets/116485378/2b618652-efad-4255-b4f9-32d2af74cb32)
