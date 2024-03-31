@@ -1,4 +1,4 @@
-Project Name: Adult & Child recognition system
+Project Name: Fruits and Vegetables Recognition System
 
 Studying the Basic Idea of the project:
 	By taking reference from a YouTube video (Fruits and Vegetables Recognition System | Machine Learning project) understood the Outline of the project we are planning to create by utilizing Google Collab 
